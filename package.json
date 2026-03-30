@@ -1,0 +1,14 @@
+{
+  "name": "stripe-handler",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "stripe": "^21.0.1",
+    "dotenv": "^16.6.1"
+  }
+}
